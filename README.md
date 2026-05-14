@@ -2,7 +2,7 @@
 
 ---
 
-## 👤 Student Details
+## Student Details
 
 * **Name:** Niti Sinha
 * **Registration Number:** 24MEI10011
@@ -10,7 +10,7 @@
 
 ---
 
-## 💻 Chosen Software
+## Chosen Software
 
 * **Software Name:** Git
 * **Category:** Version Control System
@@ -20,7 +20,7 @@ Git is a distributed version control system that helps developers track changes 
 
 ---
 
-## 📌 Project Description
+## Project Description
 
 This project focuses on analyzing an open-source software system from both technical and philosophical perspectives. Instead of just understanding what the software does, the aim is to explore why it was created, how it is used in real systems, and what values it represents.
 
@@ -30,7 +30,7 @@ This project helped me connect theoretical concepts of open source with real-wor
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 To run this project properly, the following tools and environment are required:
 
@@ -43,7 +43,7 @@ These requirements ensure that all scripts run smoothly and the outputs can be v
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 ### 1. Install Git
 
@@ -70,7 +70,7 @@ This command displays the installed version of Git, ensuring that it is ready to
 
 ---
 
-## 📂 Project Files
+## Project Files
 
 | File Name  | Description                                                  |
 | ---------- | ------------------------------------------------------------ |
@@ -84,7 +84,7 @@ Each script is designed to demonstrate a specific concept from Linux and shell s
 
 ---
 
-## ▶️ How to Run Scripts
+## How to Run Scripts
 
 ### Step 1: Give Execute Permission
 
@@ -114,7 +114,7 @@ Each script performs a different task and displays output directly in the termin
 
 ---
 
-## 📜 Detailed Script Explanation
+## Detailed Script Explanation
 
 ### 🔹 Script 1 — System Identity Report
 
@@ -146,7 +146,7 @@ This script interacts with the user by asking questions and generating a persona
 
 ---
 
-## 🧠 Learning Outcomes
+## Learning Outcomes
 
 Through this project, I gained a better understanding of:
 
@@ -160,7 +160,7 @@ This project helped me move from just using tools to actually understanding them
 
 ---
 
-## 📎 Notes
+## Notes
 
 * All scripts were tested on a Linux system
 * Outputs may vary slightly depending on system configuration
@@ -168,7 +168,7 @@ This project helped me move from just using tools to actually understanding them
 
 ---
 
-## 🚀 Conclusion
+## Conclusion
 
 Overall, this project helped me understand Git not only as a tool but also as a part of a larger open-source ecosystem. It showed how collaboration and transparency play an important role in software development.
 
