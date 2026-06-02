@@ -148,7 +148,7 @@ This script interacts with the user by asking questions and generating a persona
 
 ## Learning Outcomes
 
-Through this project, I gained a better understanding of:
+Gained better understandng of:
 
 * The concept and importance of open-source software
 * How Git works beyond basic usage
